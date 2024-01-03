@@ -4,6 +4,10 @@
 
 [games.vplan.fr](https://games.vplan.fr/)
 
+## Where is the repository of the vplan.fr-website?
+We have a strong commitment to open source, sadly we felt obligated to change the visibility of the vplan.fr-website-repo to private because it currently contains data of concern under data protection law.
+To resolve this, we plan to do some git-wizardry to remove any trace of this data. However, that is always painful due to merge conflicts, etc. We hope you understand. 
+
 <!--
 
 **Here are some ideas to get you started:**
